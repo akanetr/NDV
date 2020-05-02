@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/教室.jpg"  ]
+[preload  storage="./data/bgimage/暗転.jpg"  ]
+[preload  storage="./data/bgimage/なんもない空.jpg"  ]
+[preload  storage="./data/bgimage/佐伯登場.jpg"  ]
+[preload  storage="./data/bgimage/公園.jpg"  ]
+[return]

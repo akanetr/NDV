@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/空.jpg"  ]
+[preload  storage="./data/bgimage/宇崎瀬川別れ１.jpg"  ]
+[preload  storage="./data/bgimage/宇崎瀬川別れ２.jpg"  ]
+[preload  storage="./data/bgimage/宇崎瀬川別れ３.jpg"  ]
+[preload  storage="./data/bgimage/ラストcg.jpg"  ]
+[return]

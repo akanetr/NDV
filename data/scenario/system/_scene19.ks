@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/じむしょ.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/宇崎ふつう私服.png"  ]
+[preload  storage="./data/fgimage/chara/1/宇崎困惑私服.png"  ]
+[preload  storage="./data/fgimage/chara/1/宇崎おこ私服.png"  ]
+[preload  storage="./data/bgimage/暗転.jpg"  ]
+[return]

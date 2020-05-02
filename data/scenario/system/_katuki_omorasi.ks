@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/カツキドッジ１.jpg"  ]
+[preload  storage="./data/bgimage/カツキドッジ2.jpg"  ]
+[preload  storage="./data/bgimage/下駄箱.jpg"  ]
+[preload  storage="./data/bgimage/トイレ漏れ繋ぎ.jpg"  ]
+[preload  storage="./data/bgimage/暗転.jpg"  ]
+[preload  storage="./data/bgimage/礼紋トイレ内漏.jpg"  ]
+[preload  storage="./data/bgimage/礼紋トイレ内漏2.jpg"  ]
+[return]

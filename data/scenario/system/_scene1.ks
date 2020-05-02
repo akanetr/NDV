@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/空.jpg"  ]
+[preload  storage="./data/bgimage/林.jpg"  ]
+[preload  storage="./data/bgimage/冒頭、野ション.jpg"  ]
+[preload  storage="./data/bgimage/暗転.jpg"  ]
+[return]

@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/教室.jpg"  ]
+[preload  storage="./data/fgimage/chara/2/礼紋通常.png"  ]
+[preload  storage="./data/bgimage/宇崎教室繋ぎ２.jpg"  ]
+[preload  storage="./data/bgimage/宇崎教室漏れ１.jpg"  ]
+[preload  storage="./data/bgimage/宇崎教室漏れ２.jpg"  ]
+[return]
